@@ -6,7 +6,7 @@
         Features document parsing with OCR, automated data extraction, and smart invoice validation.
     """,
     "category": "Accounting/AI",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "depends": [
         "account",  # Invoice model (account.move)
         "llm_assistant",  # Includes llm, llm_thread, llm_tool
